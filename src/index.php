@@ -26,7 +26,7 @@
                 ?>
                 <p>this is the first commit. by Jason!</p>
 
-                <p>this is the first commit. by Jayden!</p>
+                <p>this is the first commit. by Jayden!</p> 
             </div>
         </div>
 
